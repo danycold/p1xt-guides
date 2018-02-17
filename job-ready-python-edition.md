@@ -32,7 +32,7 @@ _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the res
 - [ ] ~~Book: [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)~~
 *(Done before)*
 - [ ] ~~Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)~~
-*(Done 02/16/2017)*
+*(Done 02/16/2018)*
 - [IN PROGRESS]  Project: Pick a template from [here](https://freebiesbug.com/psd-freebies/website-template/), [here](http://www.free-css.com/free-css-templates) or [here](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 *(Took [Global: A futuristic one page portfolio in PSD and HTML](https://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/). Can use this as portfolio template in future.)*
 - [ ] Book: [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
